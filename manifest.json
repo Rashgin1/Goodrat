@@ -1,0 +1,16 @@
+
+  "name": "Creation",
+  "short_name": "Creation",
+  "description": "Create an emojis",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#000",
+  "theme_color": "#000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "app.png",
+      "type": "image/png", "sizes": "100x100"
+    }
+  ]
+}
